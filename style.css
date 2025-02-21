@@ -5,10 +5,16 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #d784c9;
 }
 
 p {
     font-size: 18px;
     color: #555;
+}
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
 }
